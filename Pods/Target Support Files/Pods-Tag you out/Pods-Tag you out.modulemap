@@ -1,0 +1,6 @@
+framework module Pods_Tag_you_out {
+  umbrella header "Pods-Tag you out-umbrella.h"
+
+  export *
+  module * { export * }
+}
